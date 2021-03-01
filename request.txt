@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+Host: yandex.ru
+User-Agent: PostmanRuntime/7.26.10
+Cache-Control: no-cache
+Accept: */*
+Connection: keep-alive
