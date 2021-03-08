@@ -57,7 +57,7 @@ int main(int argc, char* argv[])
 
 void printHelp()
 {
-	std::cout << "Usage: sendrawhttprequest host request_file response_file\n\n"
+	std::cout << "Usage: sendrawhttprequest[:port] host request_file response_file\n\n"
 		<< "Params:\n"
 		<< "    host             host name\n"
 		<< "    port             host ip port (optional)\n"
